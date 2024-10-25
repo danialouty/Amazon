@@ -1,0 +1,112 @@
+body{
+    display: grid;
+    justify-content:center;
+    margin:none;
+}
+.imgs{
+
+    width: 140px;
+    height: 60px;
+    display: grid;
+    justify-content:center;
+    margin-left: 110px;
+
+    
+} 
+.maindiv{
+    width: 350px;
+    height: 370px ;
+    border: 0.3px rgb(200, 202, 206) solid;
+    border-radius: 8px;
+    font-size: 13px;
+    border-width: thin;
+    line-height: 19px;
+    
+    
+    
+}
+.sign{
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+ .labels{
+    font-weight:700;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-size: 13px;
+    padding:  10px;
+    margin-left: 10px;
+    
+    
+}
+
+.input{
+    width:300px;
+    height: 35;
+    margin-left: 20px;
+    border-radius: 5px;
+    border-style:groove;
+  
+}
+
+.button1{
+     width: 300px ;
+     height: 30px ;
+     background-color:#FFD814; 
+     border-radius: 10px ;
+     border-color: #FFD814;
+     margin-left: 20px;
+     border-style: hidden;
+     
+}
+.button1:hover{
+    background-color: rgba(255, 216, 20,0.9);
+}
+ .p{
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-size: 13px;
+    margin-left: 20px;
+    
+ }
+ .par{
+  font-family: "Amazon Ember",Arial,sans-serif;
+   text-align: center;
+   font-size: 12px;
+   color: #767676;
+  font-weight: 400;
+}
+
+.button2{
+    width: 350px ;
+     height: 30px ; 
+     border-radius: 10px;
+     background-color: rgb(255, 255, 255);
+     border: 1.50px;
+    border-color:rgb(255, 255, 255) ;
+    border-style:groove;
+}
+a:link {
+    color: #0066c0;
+  }
+  a:visited {
+    color: #0066c0;
+  }
+  a:hover{
+    color: tomato;
+  }
+  h2 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #767676; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ h2 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+ 
